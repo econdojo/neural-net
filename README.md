@@ -1,10 +1,10 @@
-# ECON 4310 - International Macroeconomics
+# ECON 6930 - Introduction to Artificial Neural Networks
 
-International economics takes both the micro and macro perspectives to study how nations interact through trade of goods and services, flows of money, and investment. It can be divided into two interrelated subfields: international trade and international finance. This course adopts the macro perspective on international economics, building on the foundations developed in intermediate-level macroeconomics. It provides analytical tools and formal models to explain, in particular, balance of payments and exchange rate determination. Students can apply this set of tools and models to understand current international macroeconomic events, forecast the behavior of the global economy, assess the impact of real world policy choices, and make money.
+TBA
 
 ## Class Information
 
-* [Spring 2024 Syllabus](/pdf/E4310syllabus.pdf)
+* [Fall 2024 Syllabus](/pdf/E6930syllabus.pdf)
 * **Location:** Cook Hall 240
 * **Time:** TR 12:45pm-2:00pm
 * **Office hours:** TR 2:00pm-3:00pm & by appointment
@@ -14,12 +14,18 @@ International economics takes both the micro and macro perspectives to study how
 
 ## Lecture Slides
 
-* [Lecture 0: Understanding the Market](https://github.com/econdojo/inter-macro/blob/main/pdf/E3120Slides0.pdf)
-* [Lecture 1: Introduction](/pdf/E4310lec1.pdf)
-* [Lecture 2: National Income Accounting and Balance of Payments](/pdf/E4310lec2.pdf)
-* [Lecture 3: Exchange Rates and Foreign Exchange Market](/pdf/E4310lec3.pdf)
-* [Lecture 4: Money, Interest Rates, and Exchange Rates](/pdf/E4310lec4.pdf)
-* [Lecture 5: Price Levels and Exchange Rate in the Long Run](/pdf/E4310lec5.pdf)
-* [Lecture 6: Output and Exchange Rate in the Short Run](/pdf/E4310lec6.pdf)
-* [Lecture 7: Fixed Exchange Rates and Foreign Exchange Intervention](/pdf/E4310lec7.pdf)
-* [Supplementary: International Macroeconomics](http://www.columbia.edu/~mu2166/UIM/) (by Schmitt-Grohe, Uribe, and Woodford)
+TBA
+
+## Computer Science Fundamentals
+
+* [Lecture 1: Introduction to Algorithms](/pdf/Ch1_IntroToAlgorithms.pdf){:target="\_blank"}
+* [Lecture 2: Recursion](/pdf/Ch2_Recursion.pdf){:target="\_blank"}
+* [Lecture 3: Stacks and Queues](/pdf/Ch3_StacksAndQueues.pdf){:target="\_blank"}
+* [Lecture 4: Binary Trees](/pdf/Ch4_BinaryTrees.pdf){:target="\_blank"}
+* [Lecture 5: Heaps](/pdf/Ch5_Heaps.pdf){:target="\_blank"}
+* [Lecture 6: Graphs](/pdf/Ch6_Graphs.pdf){:target="\_blank"}
+* [Lecture 7: Strings](/pdf/Ch7_Strings.pdf){:target="\_blank"}
+* [Repository of data structures in C](https://github.com/econdojo/c-data-struct){:target="\_blank"}
+* [Repository of algorithms in C++](https://github.com/econdojo/cpp-algo){:target="\_blank"}
+
+Disclaimer: these are notes that I used by myself to lecture from and for educational purposes only. The material presented here is largely based upon the Computer Science Fundamentals course by [Brilliant](https://brilliant.org){:target="\_blank"}. Please do NOT circulate.

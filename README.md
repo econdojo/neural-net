@@ -18,14 +18,14 @@ TBA
 
 ## Computer Science Fundamentals
 
-* [Lecture 1: Introduction to Algorithms](/pdf/Ch1_IntroToAlgorithms.pdf){:target="\_blank"}
-* [Lecture 2: Recursion](/pdf/Ch2_Recursion.pdf){:target="\_blank"}
-* [Lecture 3: Stacks and Queues](/pdf/Ch3_StacksAndQueues.pdf){:target="\_blank"}
-* [Lecture 4: Binary Trees](/pdf/Ch4_BinaryTrees.pdf){:target="\_blank"}
-* [Lecture 5: Heaps](/pdf/Ch5_Heaps.pdf){:target="\_blank"}
-* [Lecture 6: Graphs](/pdf/Ch6_Graphs.pdf){:target="\_blank"}
-* [Lecture 7: Strings](/pdf/Ch7_Strings.pdf){:target="\_blank"}
-* [Repository of data structures in C](https://github.com/econdojo/c-data-struct){:target="\_blank"}
-* [Repository of algorithms in C++](https://github.com/econdojo/cpp-algo){:target="\_blank"}
+* [Lecture 1: Introduction to Algorithms](/pdf/Ch1_IntroToAlgorithms.pdf)
+* [Lecture 2: Recursion](/pdf/Ch2_Recursion.pdf)
+* [Lecture 3: Stacks and Queues](/pdf/Ch3_StacksAndQueues.pdf)
+* [Lecture 4: Binary Trees](/pdf/Ch4_BinaryTrees.pdf)
+* [Lecture 5: Heaps](/pdf/Ch5_Heaps.pdf)
+* [Lecture 6: Graphs](/pdf/Ch6_Graphs.pdf)
+* [Lecture 7: Strings](/pdf/Ch7_Strings.pdf)
+* [Repository of data structures in C](https://github.com/econdojo/c-data-struct)
+* [Repository of algorithms in C++](https://github.com/econdojo/cpp-algo)
 
-Disclaimer: these are notes that I used by myself to lecture from and for educational purposes only. The material presented here is largely based upon the Computer Science Fundamentals course by [Brilliant](https://brilliant.org){:target="\_blank"}. Please do NOT circulate.
+Disclaimer: these are notes that I used by myself to lecture from and for educational purposes only. The material presented here is largely based upon the Computer Science Fundamentals course by [Brilliant](https://brilliant.org). Please do NOT circulate.

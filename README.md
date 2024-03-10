@@ -27,5 +27,3 @@ TBA
 * [Lecture 7: Strings](/pdf/Ch7_Strings.pdf)
 * [Repository of data structures in C](https://github.com/econdojo/c-data-struct)
 * [Repository of algorithms in C++](https://github.com/econdojo/cpp-algo)
-
-Disclaimer: these are notes that I used by myself to lecture from and for educational purposes only. The material presented here is largely based upon the Computer Science Fundamentals course by [Brilliant](https://brilliant.org). Please do NOT circulate.

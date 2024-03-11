@@ -1,6 +1,6 @@
 # ECON 6930 - Introduction to Artificial Neural Networks
 
-TBA
+This course provides a spelled-out introduction to artificial neural networks and their applications to a variety of problems drawn from economics and business. Starting with the classical problem of image recognition, the treatment covers modeling of multilayer perceptrons, backpropagation algorithm for optimization, model training and evaluation, as well as extensions and variants of the basic architecture. The key learning objective is for students to develop *hands-on* modeling and programming skills required to conduct data analysis useful for economic and business decision making. The course will help prepare students entering graduate education or starting careers in economics, finance, marketing, operations, accounting, political science, statistics, and biostatistics.
 
 ## Class Information
 

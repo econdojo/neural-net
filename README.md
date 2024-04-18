@@ -4,7 +4,7 @@
   <img src="e6930.jpg" alt="awww" width="50%" height="50%">
 </p>
 
-This course provides a spelled-out introduction to artificial neural networks and their applications to a variety of problems drawn from economics and business. Starting with the classical problem of image recognition, the treatment covers modeling of multilayer perceptrons, backpropagation algorithm for optimization, model training and evaluation, as well as extensions and variants of the basic architecture. The key learning objective is for students to develop *hands-on* modeling and programming skills required to conduct data analysis useful for economic and business decision making. The course will help prepare students entering graduate education or starting careers in economics, finance, marketing, operations, accounting, political science, statistics, and biostatistics.
+Artificial intelligence should be made accessible to all. To this end, we provide a spelled-out introduction to artificial neural networks and their applications for students from all disciplines, regardless of their background or area of study. Starting with the classical problem of image recognition, students will delve into the intricacies of modeling multilayer perceptrons, backpropagation algorithm for optimization, model training and evaluation, as well as extensions and variants of the basic architecture. By empowering students with hands-on modeling and programming skills, we aim to democratize AI technology and foster a community of `AI ninjas' capable of harnessing its transformative potential for innovation, economic growth, and the betterment of humanity.
 
 ## Class Information
 

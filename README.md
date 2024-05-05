@@ -1,4 +1,4 @@
-# ECON 6930 - Introduction to Artificial Neural Networks
+# Introduction to Artificial Neural Networks
 
 <p align="center">
   <img src="e6930.jpg" alt="awww" width="50%" height="50%">

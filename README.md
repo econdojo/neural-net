@@ -19,7 +19,7 @@ Artificial intelligence should be made accessible to all. To this end, we provid
 
 ## Lecture Slides
 
-TBA
+* [Lecture 1: Python Tutorial](/pdf/NNslides1.pdf)
 
 ## Computer Science Fundamentals
 

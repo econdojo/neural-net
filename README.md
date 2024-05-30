@@ -12,9 +12,10 @@ Artificial intelligence should be made accessible to all. To this end, we provid
 * **Location:** Cook Hall 240
 * **Time:** TR 12:45pm-2:00pm
 * **Office hours:** TR 2:00pm-3:00pm & by appointment
-* **Econ Hub:** [discord.gg/SsrNPEeP2P](https://discord.gg/SsrNPEeP2P)
+* **Discord:** [discord.gg/SsrNPEeP2P](https://discord.gg/SsrNPEeP2P)
 * **TA:** [openai.com/blog/chatgpt](https://openai.com/blog/chatgpt)
-* **Zoom link:** [slu.zoom.us/my/econdojo](https://slu.zoom.us/my/econdojo)
+* **Zoom:** [slu.zoom.us/my/econdojo](https://slu.zoom.us/my/econdojo)
+* **GitHub Classroom:** [classroom.github.com](https://classroom.github.com)
 
 ## Lecture Slides
 

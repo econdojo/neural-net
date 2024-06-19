@@ -21,6 +21,7 @@ Artificial intelligence should be made accessible to all. To this end, we provid
 
 * [Lecture 1: Python Tutorial](/pdf/NNslides1.pdf)
 * [Lecture 2: Linear Classification](/pdf/NNslides2.pdf)
+* [Lecture 3: Optimization](/pdf/NNslides3.pdf)
 
 ## Computer Science Fundamentals
 

@@ -24,6 +24,8 @@ Artificial intelligence should be made accessible to all. To this end, we provid
 * [Lecture 2: Neural Networks](/pdf/NNslides2.pdf)
 * [Lecture 3: A Minimal Case Study](/pdf/NNslides3.pdf)
 
+Note: Adobe Acrobat Reader is required to view animations in these PDF lectures.
+
 ## Computer Science Fundamentals
 
 * [Lecture 1: Introduction to Algorithms](/pdf/Ch1_IntroToAlgorithms.pdf)

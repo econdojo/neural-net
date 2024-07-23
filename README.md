@@ -8,10 +8,10 @@ Artificial intelligence should be made accessible to all. To this end, we provid
 
 ## Class Information
 
-* [Fall 2024 Syllabus](/pdf/E6930syllabus.pdf)
-* **Location:** Cook Hall 240
-* **Time:** TR 12:45pm-2:00pm
-* **Office hours:** TR 2:00pm-3:00pm & by appointment
+* [Fall 2024 Syllabus](/pdf/NNsyllabus.pdf)
+* **Location:** Davis-Shaughnessy Hall 171
+* **Time:** M 6:00pm-9:15pm
+* **Office hours:** MW 2:00pm-3:00pm & by appointment
 * **Discord:** [discord.gg/SsrNPEeP2P](https://discord.gg/SsrNPEeP2P)
 * **TA:** [openai.com/blog/chatgpt](https://openai.com/blog/chatgpt)
 * **Zoom:** [slu.zoom.us/my/econdojo](https://slu.zoom.us/my/econdojo)
@@ -23,7 +23,7 @@ Artificial intelligence should be made accessible to all. To this end, we provid
 * [Lecture 1: Linear Classification](/pdf/NNslides1.pdf)
 * [Lecture 2: Neural Networks](/pdf/NNslides2.pdf)
 * [Lecture 3: A Minimal Case Study](/pdf/NNslides3.pdf)
-* Lecture 4: Language Modeling
+* [Lecture 4: Language Modeling](/pdf/NNslides4.pdf)
 * Lecture 5: Economic Forecasting
 
 Note: Adobe Acrobat Reader is required to view animations in these PDF lectures.

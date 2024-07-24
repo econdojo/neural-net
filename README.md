@@ -37,5 +37,5 @@ Note: Adobe Acrobat Reader is required to view animations in these PDF lectures.
 * [Lecture 5: Heaps](/pdf/Ch5_Heaps.pdf)
 * [Lecture 6: Graphs](/pdf/Ch6_Graphs.pdf)
 * [Lecture 7: Strings](/pdf/Ch7_Strings.pdf)
-* [Repository of data structures in C](https://github.com/econdojo/c-data-struct)
-* [Repository of algorithms in C++](https://github.com/econdojo/cpp-algo)
+* [Data structures in C](https://github.com/econdojo/c-data-struct)
+* [Algorithms in C++](https://github.com/econdojo/cpp-algo)

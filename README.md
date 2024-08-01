@@ -24,7 +24,7 @@ Artificial intelligence should be made accessible to all. To this end, we provid
 * [Lecture 2: Neural Networks](/pdf/NNslides2.pdf)
 * [Lecture 3: A Minimal Case Study](/pdf/NNslides3.pdf)
 * [Lecture 4: Language Modeling](/pdf/NNslides4.pdf)
-* Lecture 5: Economic Forecasting
+* More applications to follow.
 
 Note: Adobe Acrobat Reader is required to view animations in these PDF lectures.
 

@@ -13,8 +13,6 @@ Artificial intelligence should be made accessible to all. To this end, we provid
 * **Time:** M 6:00pm-9:15pm
 * **Office hours:** MW 2:00pm-3:00pm & by appointment
 * **Discord:** [discord.gg/SsrNPEeP2P](https://discord.gg/SsrNPEeP2P)
-* **TA:** [openai.com/blog/chatgpt](https://openai.com/blog/chatgpt)
-* **Zoom:** [slu.zoom.us/my/econdojo](https://slu.zoom.us/my/econdojo)
 * **GitHub Classroom:** [classroom.github.com](https://classroom.github.com)
 
 ## Lecture Slides

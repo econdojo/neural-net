@@ -1,4 +1,4 @@
-# Introduction to Neural Networks
+# Neural Network
 
 <p align="center">
   <img src="e6930.jpeg" alt="awww" width="50%" height="50%">
